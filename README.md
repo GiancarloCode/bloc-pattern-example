@@ -10,3 +10,4 @@ Esta aplicación es el proyecto desarrollado en la serie de videos donde te ense
 - [Parte 1 - ¿Cómo implementar el patrón BLoC en Flutter desde cero? - Flutter Bloc y Bloc Library](https://youtu.be/c1liGPqrMlA)
 - [Parte 2 - ¿Cómo implementar el patrón BLoC en Flutter desde cero? - Flutter Bloc y Bloc Library](https://youtu.be/HS2jsM-yzq4)
 - [Parte 3 - ¿Cómo implementar el patrón BLoC en Flutter desde cero? - Flutter Bloc y Bloc Library](https://youtu.be/DClevEVGA8s)
+- [Parte 4 - Arquitectura por capas con el Patrón BLoC - ¿Cómo estructurar un BLoC complejo?](https://youtu.be/O8t56KEM9yI)
