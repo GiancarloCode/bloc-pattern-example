@@ -6,6 +6,8 @@ import 'package:bloc_example/blocs/preferences/preferences_bloc.dart';
 import 'package:bloc_example/presentation/app.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+
   BlocSupervisor.delegate = MyBlocDelegate();
 
   final preferencesRepository = PreferencesRepositoryImpl();
