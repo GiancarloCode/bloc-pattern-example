@@ -1,0 +1,22 @@
+name: bloc_example
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^1.1.1
+  bloc: ^4.0.0
+  flutter_bloc: ^4.0.0
+  shared_preferences: ^0.5.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
